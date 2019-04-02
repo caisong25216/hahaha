@@ -1,0 +1,5 @@
+db_host = "10.10.10.10"
+db_port = 1234
+db_username = "root"
+db_password = "testpwd"
+db_name = "testdb"

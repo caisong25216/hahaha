@@ -1,0 +1,10 @@
+"mysql":{
+	"dev":{
+		"connectionLimit":5,
+		"host":"testdb.abc.db",
+		"port":"12345",
+		"user":"root",
+		"password":"testpwd",
+		"database":"testdb"
+	}
+}

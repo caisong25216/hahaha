@@ -1,0 +1,1 @@
+mysql -h10.10.10.10 -P1234 -uroot -ptestpwd testdb --default-character-set=utf8
